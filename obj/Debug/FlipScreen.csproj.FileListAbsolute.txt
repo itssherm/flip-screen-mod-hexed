@@ -1,0 +1,36 @@
+C:\Users\Biscuit\Documents\Be Module\VRChat-BepInEx-Mods\bin\Debug\FlipScreen.dll
+C:\Users\Biscuit\Documents\Be Module\VRChat-BepInEx-Mods\bin\Debug\FlipScreen.pdb
+C:\Users\Biscuit\Documents\Be Module\VRChat-BepInEx-Mods\bin\Debug\Microsoft.CSharp.dll
+C:\Users\Biscuit\Documents\Be Module\VRChat-BepInEx-Mods\bin\Debug\System.Data.DataSetExtensions.dll
+C:\Users\Biscuit\Documents\Be Module\VRChat-BepInEx-Mods\bin\Debug\System.Data.dll
+C:\Users\Biscuit\Documents\Be Module\VRChat-BepInEx-Mods\bin\Debug\System.dll
+C:\Users\Biscuit\Documents\Be Module\VRChat-BepInEx-Mods\bin\Debug\System.Net.Http.dll
+C:\Users\Biscuit\Documents\Be Module\VRChat-BepInEx-Mods\bin\Debug\System.Xml.dll
+C:\Users\Biscuit\Documents\Be Module\VRChat-BepInEx-Mods\bin\Debug\System.Xml.Linq.dll
+C:\Users\Biscuit\Documents\Be Module\VRChat-BepInEx-Mods\bin\Debug\System.Text.Json.dll
+C:\Users\Biscuit\Documents\Be Module\VRChat-BepInEx-Mods\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Biscuit\Documents\Be Module\VRChat-BepInEx-Mods\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Biscuit\Documents\Be Module\VRChat-BepInEx-Mods\bin\Debug\System.ValueTuple.dll
+C:\Users\Biscuit\Documents\Be Module\VRChat-BepInEx-Mods\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Biscuit\Documents\Be Module\VRChat-BepInEx-Mods\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Biscuit\Documents\Be Module\VRChat-BepInEx-Mods\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Biscuit\Documents\Be Module\VRChat-BepInEx-Mods\bin\Debug\System.Buffers.dll
+C:\Users\Biscuit\Documents\Be Module\VRChat-BepInEx-Mods\bin\Debug\BepInEx.Core.xml
+C:\Users\Biscuit\Documents\Be Module\VRChat-BepInEx-Mods\bin\Debug\BepInEx.Preloader.Core.xml
+C:\Users\Biscuit\Documents\Be Module\VRChat-BepInEx-Mods\bin\Debug\BepInEx.Unity.Common.xml
+C:\Users\Biscuit\Documents\Be Module\VRChat-BepInEx-Mods\bin\Debug\BepInEx.Unity.IL2CPP.xml
+C:\Users\Biscuit\Documents\Be Module\VRChat-BepInEx-Mods\bin\Debug\BepInEx.Unity.IL2CPP.dll.config
+C:\Users\Biscuit\Documents\Be Module\VRChat-BepInEx-Mods\obj\Debug\FlipScreen.csproj.AssemblyReference.cache
+C:\Users\Biscuit\Documents\Be Module\VRChat-BepInEx-Mods\obj\Debug\FlipScreen.csproj.CoreCompileInputs.cache
+C:\Users\Biscuit\Documents\Be Module\VRChat-BepInEx-Mods\obj\Debug\FlipScreen.csproj.Up2Date
+C:\Users\Biscuit\Documents\Be Module\VRChat-BepInEx-Mods\obj\Debug\FlipScreen.dll
+C:\Users\Biscuit\Documents\Be Module\VRChat-BepInEx-Mods\obj\Debug\FlipScreen.pdb
+C:\Users\itssn\Downloads\FlipScreenBepInExSRC\obj\Debug\FlipScreen.csproj.AssemblyReference.cache
+C:\Users\itssn\Downloads\FlipScreenBepInExSRC\obj\Debug\FlipScreen.csproj.CoreCompileInputs.cache
+C:\Users\itssn\Downloads\FlipScreenBepInExSRC\obj\Debug\FlipScreen.dll
+C:\Users\itssn\Downloads\FlipScreenBepInExSRC\obj\Debug\FlipScreen.pdb
+C:\Users\itssn\Downloads\FlipScreenBepInExSRC\bin\Debug\FlipScreen.dll
+C:\Users\itssn\Downloads\FlipScreenBepInExSRC\bin\Debug\FlipScreen.pdb
+C:\Users\itssn\Downloads\FlipScreenBepInExSRC\bin\Debug\Newtonsoft.Json.dll
+C:\Users\itssn\Downloads\FlipScreenBepInExSRC\bin\Debug\Il2CppInterop.Common.dll
+C:\Users\itssn\Downloads\FlipScreenBepInExSRC\obj\Debug\FlipScreen.csproj.Up2Date
